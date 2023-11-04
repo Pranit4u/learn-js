@@ -1,3 +1,4 @@
+/* eslint no-eval: 0 */
 import {React, useState, useEffect} from 'react';
 import CodeEditor from './CodeEditor';
 import Console from './Console';

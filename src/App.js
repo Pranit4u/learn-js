@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import "./style/Navbar.css"
 import "./style/CodeRunner.css"
